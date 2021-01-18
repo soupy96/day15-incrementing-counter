@@ -30,7 +30,7 @@ body {
 }
 
 @media (max-width: 580px) {
-  body {
+  body {0
     flex-direction: column;
   }
 }
